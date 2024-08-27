@@ -1,0 +1,1 @@
+hello, we are about to start git
